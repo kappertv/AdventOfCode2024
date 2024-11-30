@@ -1,0 +1,86 @@
+# Byte-compiled / gecompiled Python-bestanden
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtuele omgevingen
+venv/
+env/
+ENV/
+.virtualenv/
+
+# Pakketbeheer
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+*.out
+*.err
+
+# Testuitvoer
+.coverage
+*.cover
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+.cache/
+pytest_cache/
+*.pytest_cache/
+junit-*.xml
+
+# Editor specifieke bestanden
+.vscode/
+.idea/
+*.swp
+*.swo
+*.orig
+
+# Operating system bestanden
+.DS_Store
+Thumbs.db
+
+# Pipenv
+Pipfile
+Pipfile.lock
+
+# PyInstaller
+# Gebruikersspecifieke bestanden
+*.manifest
+*.spec
+
+# MyPy type-checker
+.mypy_cache/
+
+# Profielgegevens
+.prof
+
+# Jupyter-notebooks checkpoints
+.ipynb_checkpoints/
+
+# Anaconda directory
+.conda/
+.env/
+
+# Linting en formatters
+*.pylint.d
+*.mypy_cache/
+.cache/
+*.ropeproject/
+
+# Debugger-specific
+*.pdb
+*.stacktrace
+*.core
+
+# Coverage rapportages
+*.coverage
+.cache/
+.coverage.*
+
+# Config bestanden
+*.config
