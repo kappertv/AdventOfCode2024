@@ -1,4 +1,4 @@
-from src.day2.solution import *
+from src.day02.solution import *
 
 import pytest
 import os
